@@ -3,7 +3,7 @@ name: Run main.py daily
 on:
   schedule:
     # Runs at 11:03 PM IST (5:33 PM UTC) every day
-    - cron: '35 18 * * *'
+    - cron: '47 18 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
