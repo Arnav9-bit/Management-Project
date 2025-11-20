@@ -1,8 +1,9 @@
-name: Run main.py daily
+name: Run main.py on Wednesday and Friday
 
 on:
   schedule:
-    - cron: '00 19 * * *' # 11:03 PM IST
+    - cron: '14 19 * * *'  # 1:00 PM IST every Wednesday
+    - cron: '16 19 * * *' # 9:00 PM IST every Friday
   workflow_dispatch:
 
 jobs:
@@ -12,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Required for git history
+          fetch-depth: 0 # Required for full git history
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,13 +24,14 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run Main.py
-        run: python Main.py
+      - name: Run main.py
+        run: python main.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git pull origin main # Pull latest changes
           git add .
           git diff-index --quiet HEAD || git commit -m "Automated changes from GitHub Actions"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
