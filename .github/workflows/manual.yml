@@ -2,9 +2,8 @@ name: Run main.py daily
 
 on:
   schedule:
-    # Runs at 11:03 PM IST (5:33 PM UTC) every day
-    - cron: '47 18 * * *'
-  workflow_dispatch: # Allows manual triggering
+    - cron: '55 18 * * *' # 11:03 PM IST
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -12,15 +11,25 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Required for git history
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # or your preferred version
+          python-version: '3.11'
 
-      - name: Install dependencies (if any)
+      - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run Main.py
         run: python Main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Automated changes from GitHub Actions"
+          git push
