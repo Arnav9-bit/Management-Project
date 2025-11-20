@@ -1,0 +1,30 @@
+2025-11-20 19:26:22,101 - INFO - Logging is configured. Log file: logs/amazon_api_20251120_192622.log
+2025-11-20 19:26:22,101 - INFO - All CSV files initialized.
+2025-11-20 19:26:22,101 - INFO - Starting product data check...
+2025-11-20 19:26:24,798 - INFO - Saved to product_data: boAt Nirvana Zenith Pro (2025) at 2799.0 INR, Rating: 4.0, Reviews: 861
+2025-11-20 19:26:24,799 - INFO - Product details for ASIN B0DXPL5XHF are unchanged. Skipping.
+2025-11-20 19:26:24,801 - INFO - Saved 0 new reviews for ASIN B0DXPL5XHF.
+2025-11-20 19:26:27,643 - INFO - Saved to product_data: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish at 1999.0 INR, Rating: 3.4, Reviews: 2683
+2025-11-20 19:26:27,644 - INFO - Saved to product_details: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, Quad Mic with ENC,12mm Driver,BTv5.4 (Pearl Black)
+2025-11-20 19:26:27,645 - INFO - Saved 0 new reviews for ASIN B0DGV56J6G.
+2025-11-20 19:26:30,183 - INFO - Saved to product_data: boAt Nirvana Ion ANC Pro at 2799.0 INR, Rating: 4.0, Reviews: 19369
+2025-11-20 19:26:30,184 - INFO - Product details for ASIN 	B0DN171184 are unchanged. Skipping.
+2025-11-20 19:26:30,185 - INFO - Saved 0 new reviews for ASIN 	B0DN171184.
+2025-11-20 19:26:33,071 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 at 2799.0 INR, Rating: 3.5, Reviews: 161
+2025-11-20 19:26:33,072 - INFO - Saved to product_details: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB), LHDC with 12.4mm Titanium Driver, 50H of Playtime, Google Fast Pair, BT v5.3(Slate Black)
+2025-11-20 19:26:33,075 - INFO - Saved 0 new reviews for ASIN B0DHH96NBB.
+2025-11-20 19:26:35,527 - INFO - Saved to product_data: boAt Nirvana Ivy at 2999.0 INR, Rating: 3.8, Reviews: 742
+2025-11-20 19:26:35,528 - INFO - Product details for ASIN 	B0DBHD2F5R are unchanged. Skipping.
+2025-11-20 19:26:35,530 - INFO - Saved 0 new reviews for ASIN 	B0DBHD2F5R.
+2025-11-20 19:26:37,960 - INFO - Saved to product_data: Noise Newly Launched Air Clips 2 at 2999.0 INR, Rating: 3.3, Reviews: 225
+2025-11-20 19:26:37,961 - INFO - Product details for ASIN 	B0F673HNLP are unchanged. Skipping.
+2025-11-20 19:26:37,962 - INFO - Saved 0 new reviews for ASIN 	B0F673HNLP.
+2025-11-20 19:26:41,041 - INFO - Saved to product_data: boAt Nirvana X TWS (2025) at 2948.0 INR, Rating: 3.9, Reviews: 827
+2025-11-20 19:26:41,042 - INFO - Saved to product_details: boAt Nirvana X TWS (2025),Knowles Dual Drivers,Hi-Res Audio LDAC,App Support,4Mic ENx,Dual Pair,Spatial Audio,Fast Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Cosmic Onyx)
+2025-11-20 19:26:41,043 - INFO - Saved 0 new reviews for ASIN B0DQKY3R84.
+2025-11-20 19:26:43,660 - INFO - Saved to product_data: Noise Newly Launched Air Buds 6 at 2499.0 INR, Rating: 3.9, Reviews: 3406
+2025-11-20 19:26:43,661 - INFO - Product details for ASIN B0DGV55W2K are unchanged. Skipping.
+2025-11-20 19:26:43,662 - INFO - Saved 0 new reviews for ASIN B0DGV55W2K.
+2025-11-20 19:26:46,369 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) at 2799.0 INR, Rating: 3.5, Reviews: 161
+2025-11-20 19:26:46,370 - INFO - Product details for ASIN B0DHHDW7FV are unchanged. Skipping.
+2025-11-20 19:26:46,372 - INFO - Saved 0 new reviews for ASIN B0DHHDW7FV.
