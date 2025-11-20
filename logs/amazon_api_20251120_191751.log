@@ -1,0 +1,30 @@
+2025-11-20 19:17:51,305 - INFO - Logging is configured. Log file: logs/amazon_api_20251120_191751.log
+2025-11-20 19:17:51,305 - INFO - All CSV files initialized.
+2025-11-20 19:17:51,305 - INFO - Starting product data check...
+2025-11-20 19:17:53,580 - INFO - Saved to product_data: boAt Nirvana Zenith Pro (2025) at 2799.0 INR, Rating: 4.0, Reviews: 861
+2025-11-20 19:17:53,580 - INFO - Product details for ASIN B0DXPL5XHF are unchanged. Skipping.
+2025-11-20 19:17:53,581 - INFO - Saved 0 new reviews for ASIN B0DXPL5XHF.
+2025-11-20 19:17:55,700 - INFO - Saved to product_data: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish at 1999.0 INR, Rating: 3.4, Reviews: 2683
+2025-11-20 19:17:55,701 - INFO - Saved to product_details: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, Quad Mic with ENC,12mm Driver,BTv5.4 (Pearl Black)
+2025-11-20 19:17:55,703 - INFO - Saved 0 new reviews for ASIN B0DGV56J6G.
+2025-11-20 19:17:57,835 - INFO - Saved to product_data: boAt Nirvana Ion ANC Pro at 2799.0 INR, Rating: 4.0, Reviews: 19369
+2025-11-20 19:17:57,837 - INFO - Product details for ASIN 	B0DN171184 are unchanged. Skipping.
+2025-11-20 19:17:57,838 - INFO - Saved 0 new reviews for ASIN 	B0DN171184.
+2025-11-20 19:17:59,843 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 at 2799.0 INR, Rating: 3.5, Reviews: 161
+2025-11-20 19:17:59,844 - INFO - Product details for ASIN B0DHH96NBB are unchanged. Skipping.
+2025-11-20 19:17:59,845 - INFO - Saved 0 new reviews for ASIN B0DHH96NBB.
+2025-11-20 19:18:01,981 - INFO - Saved to product_data: boAt Nirvana Ivy at 2999.0 INR, Rating: 3.8, Reviews: 742
+2025-11-20 19:18:01,982 - INFO - Product details for ASIN 	B0DBHD2F5R are unchanged. Skipping.
+2025-11-20 19:18:01,984 - INFO - Saved 0 new reviews for ASIN 	B0DBHD2F5R.
+2025-11-20 19:18:04,040 - INFO - Saved to product_data: Noise Newly Launched Air Clips 2 at 2999.0 INR, Rating: 3.3, Reviews: 225
+2025-11-20 19:18:04,041 - INFO - Product details for ASIN 	B0F673HNLP are unchanged. Skipping.
+2025-11-20 19:18:04,042 - INFO - Saved 0 new reviews for ASIN 	B0F673HNLP.
+2025-11-20 19:18:06,285 - INFO - Saved to product_data: boAt Nirvana X TWS (2025) at 2948.0 INR, Rating: 3.9, Reviews: 827
+2025-11-20 19:18:06,286 - INFO - Product details for ASIN B0DQKY3R84 are unchanged. Skipping.
+2025-11-20 19:18:06,287 - INFO - Saved 0 new reviews for ASIN B0DQKY3R84.
+2025-11-20 19:18:08,534 - INFO - Saved to product_data: Noise Newly Launched Air Buds 6 at 2499.0 INR, Rating: 3.9, Reviews: 3404
+2025-11-20 19:18:08,535 - INFO - Product details for ASIN B0DGV55W2K are unchanged. Skipping.
+2025-11-20 19:18:08,536 - INFO - Saved 0 new reviews for ASIN B0DGV55W2K.
+2025-11-20 19:18:10,464 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) at 2799.0 INR, Rating: 3.5, Reviews: 161
+2025-11-20 19:18:10,465 - INFO - Product details for ASIN B0DHHDW7FV are unchanged. Skipping.
+2025-11-20 19:18:10,466 - INFO - Saved 0 new reviews for ASIN B0DHHDW7FV.
