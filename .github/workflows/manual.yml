@@ -3,7 +3,7 @@ name: Run main.py daily
 on:
   schedule:
     # Runs at 11:03 PM IST (5:33 PM UTC) every day
-    - cron: '37 17 * * *'
+    - cron: '10 18 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -22,5 +22,5 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run main.py
-        run: python main.py
+      - name: Run Main.py
+        run: python Main.py
