@@ -5,7 +5,7 @@ from Database_codes import save_product_data, save_product_details, save_product
 
 COUNTRY = "IN"  # India
 LANGUAGE = "en_IN"
-RAPIDAPI_KEY = "768437f4a7mshd0cb3a484b12e02p19a030jsn15b7afd49721"
+RAPIDAPI_KEY = "60fbd31055mshada37c3dc72e320p136ed8jsn539d08d7a1f1"
 RAPIDAPI_HOST = "real-time-amazon-data.p.rapidapi.com"
 PRODUCTS = [
     {"name": "boAt Nirvana Zenith Pro (2025)", "asin": "B0DXPL5XHF"},
@@ -77,4 +77,5 @@ def check_all_products():
         except Exception as e:
             logging.error(f"Error processing {product['name']}: {e}")
             print(f"Error processing {product['name']}: {e}")
+
     print("Product data check completed.")
