@@ -1,0 +1,26 @@
+name: Run main.py daily
+
+on:
+  schedule:
+    # Runs at 11:03 PM IST (5:33 PM UTC) every day
+    - cron: '33 17 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # or your preferred version
+
+      - name: Install dependencies (if any)
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run main.py
+        run: python main.py
