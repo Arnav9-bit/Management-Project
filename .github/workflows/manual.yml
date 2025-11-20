@@ -2,7 +2,7 @@ name: Run main.py daily
 
 on:
   schedule:
-    - cron: '55 18 * * *' # 11:03 PM IST
+    - cron: '00 19 * * *' # 11:03 PM IST
   workflow_dispatch:
 
 jobs:
