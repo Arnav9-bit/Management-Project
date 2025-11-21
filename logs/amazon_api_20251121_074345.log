@@ -1,0 +1,21 @@
+2025-11-21 07:43:45,472 - INFO - Logging is configured. Log file: logs/amazon_api_20251121_074345.log
+2025-11-21 07:43:45,472 - INFO - All CSV files initialized.
+2025-11-21 07:43:45,472 - INFO - Starting product data check...
+2025-11-21 07:43:45,660 - ERROR - API Error for ASIN B0DXPL5XHF: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:45,662 - WARNING - No data found for boAt Nirvana Zenith Pro (2025) (ASIN: B0DXPL5XHF)
+2025-11-21 07:43:45,741 - ERROR - API Error for ASIN B0DGV56J6G: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:45,742 - WARNING - No data found for Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish (ASIN: B0DGV56J6G)
+2025-11-21 07:43:45,807 - ERROR - API Error for ASIN 	B0DN171184: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:45,808 - WARNING - No data found for boAt Nirvana Ion ANC Pro (ASIN: 	B0DN171184)
+2025-11-21 07:43:45,888 - ERROR - API Error for ASIN B0DHH96NBB: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:45,889 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 (ASIN: B0DHH96NBB)
+2025-11-21 07:43:45,975 - ERROR - API Error for ASIN 	B0DBHD2F5R: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:45,976 - WARNING - No data found for boAt Nirvana Ivy (ASIN: 	B0DBHD2F5R)
+2025-11-21 07:43:46,024 - ERROR - API Error for ASIN 	B0F673HNLP: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:46,025 - WARNING - No data found for Noise Newly Launched Air Clips 2 (ASIN: 	B0F673HNLP)
+2025-11-21 07:43:46,171 - ERROR - API Error for ASIN B0DQKY3R84: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:46,172 - WARNING - No data found for boAt Nirvana X TWS (2025) (ASIN: B0DQKY3R84)
+2025-11-21 07:43:46,226 - ERROR - API Error for ASIN B0DGV55W2K: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:46,227 - WARNING - No data found for Noise Newly Launched Air Buds 6 (ASIN: B0DGV55W2K)
+2025-11-21 07:43:46,291 - ERROR - API Error for ASIN B0DHHDW7FV: 429 - {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/real-time-amazon-data"}
+2025-11-21 07:43:46,292 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) (ASIN: B0DHHDW7FV)
