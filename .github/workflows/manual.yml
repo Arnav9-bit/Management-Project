@@ -2,8 +2,8 @@ name: Run main.py on Wednesday and Friday
 
 on:
   schedule:
-    - cron: '05 7 * * *'  # 1:00 PM IST every Wednesday
-    - cron: '08 7 * * *' # 9:00 PM IST every Friday
+    - cron: '10 7 * * *'  # 1:00 PM IST every Wednesday
+    - cron: '13 7 * * *' # 9:00 PM IST every Friday
   workflow_dispatch:
 
 jobs:
