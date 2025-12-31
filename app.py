@@ -93,7 +93,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- 2. DATA PROCESSING ENGINE ---
-@st.cache_data
+@st.cache_data(ttl=3600)
 def process_competitor_data():
     try:
         # Files load karna
@@ -279,4 +279,5 @@ st.markdown(
     </div>
     """, 
     unsafe_allow_html=True
+
 )
