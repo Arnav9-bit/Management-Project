@@ -1,0 +1,30 @@
+2026-01-24 07:37:56,764 - INFO - Logging is configured. Log file: logs/amazon_api_20260124_073756.log
+2026-01-24 07:37:56,764 - INFO - All CSV files initialized.
+2026-01-24 07:37:56,764 - INFO - Starting product data check...
+2026-01-24 07:38:00,024 - INFO - Saved to product_data: boAt Nirvana Zenith Pro (2025) at 2698.0 INR, Rating: 4.0, Reviews: 1234
+2026-01-24 07:38:00,034 - INFO - Saved to product_details: boAt Nirvana Zenith Pro(2025),50dB Hybrid Adaptive ANC,Spatial Audio, Hi-Res Audio LDAC,6Mics AI-ENx,80 Hrs Battery,Bluetooth,TWS Ear Buds Wireless Earphones with mic,NoiseCancellation(Platinum Gold)
+2026-01-24 07:38:00,036 - INFO - Saved 1 new reviews for ASIN B0DXPL5XHF.
+2026-01-24 07:38:02,967 - INFO - Saved to product_data: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish at 1999.0 INR, Rating: 3.4, Reviews: 2962
+2026-01-24 07:38:02,977 - INFO - Saved to product_details: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, Quad Mic with ENC,12mm Driver,BTv5.4 (Pearl Black)
+2026-01-24 07:38:02,979 - INFO - Saved 0 new reviews for ASIN B0DGV56J6G.
+2026-01-24 07:38:06,850 - INFO - Saved to product_data: boAt Nirvana Ion ANC Pro at 1999.0 INR, Rating: 4.0, Reviews: 21034
+2026-01-24 07:38:06,860 - INFO - Saved to product_details: boAt Nirvana Ion ANC Pro, Hi-Res Audio LDAC,ANC(~32dB), 120Hrs Battery, App Support, Fast Charge, v5.3 Bluetooth TWS in Ear Earbuds Wireless Earphones with mic (Blazing Comet)
+2026-01-24 07:38:06,862 - INFO - Saved 1 new reviews for ASIN 	B0DN171184.
+2026-01-24 07:38:09,564 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 at 2499.0 INR, Rating: 3.6, Reviews: 215
+2026-01-24 07:38:09,574 - INFO - Saved to product_details: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB), LHDC with 12.4mm Titanium Driver, 50H of Playtime, Google Fast Pair, BT v5.3(Slate Black)
+2026-01-24 07:38:09,576 - INFO - Saved 0 new reviews for ASIN B0DHH96NBB.
+2026-01-24 07:38:12,806 - INFO - Saved to product_data: boAt Nirvana Ivy at 1799.0 INR, Rating: 3.8, Reviews: 971
+2026-01-24 07:38:12,816 - INFO - Saved to product_details: boAt Nirvana Ivy, 50dB Hybrid Active Noise Cancellation, 360º Spatial Audio,Fast Charge,App Support, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Gunmetal Black)
+2026-01-24 07:38:12,818 - INFO - Saved 1 new reviews for ASIN 	B0DBHD2F5R.
+2026-01-24 07:38:15,694 - INFO - Saved to product_data: Noise Newly Launched Air Clips 2 at 2499.0 INR, Rating: 3.1, Reviews: 298
+2026-01-24 07:38:15,705 - INFO - Saved to product_details: Noise Newly Launched Air Clips 2 Wireless Open Ear Earbuds with Clip Design, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, ENC,12mm Driver,BTv5.3 (Frost Black)
+2026-01-24 07:38:15,707 - INFO - Saved 0 new reviews for ASIN 	B0F673HNLP.
+2026-01-24 07:38:18,929 - INFO - Saved to product_data: boAt Nirvana X TWS (2025) at 2099.0 INR, Rating: 3.9, Reviews: 878
+2026-01-24 07:38:18,939 - INFO - Saved to product_details: boAt Nirvana X TWS (2025),Knowles Dual Drivers,Hi-Res Audio LDAC,App Support,4Mic ENx,Dual Pair,Spatial Audio,Fast Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Cosmic Onyx)
+2026-01-24 07:38:18,941 - INFO - Saved 1 new reviews for ASIN B0DQKY3R84.
+2026-01-24 07:38:22,172 - INFO - Saved to product_data: Noise Newly Launched Air Buds 6 at 1999.0 INR, Rating: 3.9, Reviews: 3568
+2026-01-24 07:38:22,183 - INFO - Saved to product_details: Noise Newly Launched Air Buds 6 in-Ear Bluetooth TWS - AI Enabled Smartbuds, ANC (up to 32db), Personalised App, in-Ear Detection, Voice Control, Google Fast Pair, BT v5.3(Pebble Grey)
+2026-01-24 07:38:22,185 - INFO - Saved 0 new reviews for ASIN B0DGV55W2K.
+2026-01-24 07:38:24,998 - INFO - Saved to product_data: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) at 2499.0 INR, Rating: 3.6, Reviews: 215
+2026-01-24 07:38:25,007 - INFO - Saved to product_details: Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB), LHDC with 12.4mm Titanium Driver, 50H of Playtime, Google Fast Pair, BT v5.3(Petal Pink)
+2026-01-24 07:38:25,009 - INFO - Saved 0 new reviews for ASIN B0DHHDW7FV.
