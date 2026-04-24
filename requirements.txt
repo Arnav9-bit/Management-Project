@@ -1,4 +1,7 @@
-requests==2.31.0
 streamlit
 pandas
 plotly
+textblob
+scikit-learn
+numpy
+nltk
