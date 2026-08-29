@@ -1,0 +1,27 @@
+2026-08-29 13:14:29,321 - INFO - Logging is configured. Log file: logs/amazon_api_20260829_131429.log
+2026-08-29 13:14:29,321 - INFO - All CSV files initialized.
+2026-08-29 13:14:29,321 - INFO - Starting product data check...
+2026-08-29 13:14:32,433 - INFO - Saved to product_data: boAt Nirvana Zenith Pro (2025) at 3199.0 INR, Rating: 3.9, Reviews: 1784
+2026-08-29 13:14:32,458 - INFO - Saved to product_details: boAt Nirvana Zenith Pro, 50dB Hybrid Adaptive ANC, Spatial Audio, Hi-Res Audio LDAC, 6Mics AI-ENx, 80 Hrs Battery, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Platinum Gold)
+2026-08-29 13:14:32,458 - INFO - No reviews found for ASIN B0DXPL5XHF.
+2026-08-29 13:14:41,518 - ERROR - No product data found in API response for ASIN B0DGV56J6G.
+2026-08-29 13:14:41,518 - ERROR - No product details found in API response for ASIN B0DGV56J6G.
+2026-08-29 13:14:41,518 - INFO - No reviews found for ASIN B0DGV56J6G.
+2026-08-29 13:14:47,675 - INFO - Saved to product_data: boAt Nirvana Ion ANC Pro at None INR, Rating: 4.1, Reviews: 512
+2026-08-29 13:14:47,700 - INFO - Saved to product_details: boAt Nirvana Ion ANC Pro, Hi-Res Audio LDAC, Active Noise Cancellation(~32dB), 120Hrs Battery, App Support, Fast Charge, v5.3 Bluetooth Earbuds,TWS Ear Buds Wireless Earphones with mic (Blazing Comet)
+2026-08-29 13:14:47,700 - INFO - No reviews found for ASIN 	B0DN171184.
+2026-08-29 13:14:48,687 - ERROR - API Error for ASIN B0DHH96NBB: 404 - {"status":"ERROR","request_id":"e548429b-18b0-4a61-9955-325c5481d638","error":{"message":"Product not found","code":404}}
+2026-08-29 13:14:48,688 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 (ASIN: B0DHH96NBB)
+2026-08-29 13:14:56,990 - INFO - Saved to product_data: boAt Nirvana Ivy at None INR, Rating: 3.8, Reviews: 817
+2026-08-29 13:14:57,013 - INFO - Saved to product_details: boAt Nirvana Ivy, 50dB Hybrid Active Noise Cancellation, 360º Spatial Audio,Fast Charge,App Support, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Gunmetal Black)
+2026-08-29 13:14:57,013 - INFO - No reviews found for ASIN 	B0DBHD2F5R.
+2026-08-29 13:15:00,753 - ERROR - No product data found in API response for ASIN 	B0F673HNLP.
+2026-08-29 13:15:00,753 - ERROR - No product details found in API response for ASIN 	B0F673HNLP.
+2026-08-29 13:15:00,753 - INFO - No reviews found for ASIN 	B0F673HNLP.
+2026-08-29 13:15:16,127 - ERROR - No product data found in API response for ASIN B0DQKY3R84.
+2026-08-29 13:15:16,128 - ERROR - No product details found in API response for ASIN B0DQKY3R84.
+2026-08-29 13:15:16,128 - INFO - No reviews found for ASIN B0DQKY3R84.
+2026-08-29 13:15:30,947 - ERROR - API Error for ASIN B0DGV55W2K: 404 - {"status":"ERROR","request_id":"d295f72f-e452-43f6-a516-5512ebbf490a","error":{"message":"Product not found","code":404}}
+2026-08-29 13:15:30,947 - WARNING - No data found for Noise Newly Launched Air Buds 6 (ASIN: B0DGV55W2K)
+2026-08-29 13:15:33,577 - ERROR - API Error for ASIN B0DHHDW7FV: 404 - {"status":"ERROR","request_id":"724b8690-4608-4e1c-9195-803ab499d3a6","error":{"message":"Product not found","code":404}}
+2026-08-29 13:15:33,577 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) (ASIN: B0DHHDW7FV)
