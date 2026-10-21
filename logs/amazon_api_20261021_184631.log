@@ -1,0 +1,27 @@
+2026-10-21 18:46:31,920 - INFO - Logging is configured. Log file: logs/amazon_api_20261021_184631.log
+2026-10-21 18:46:31,920 - INFO - All CSV files initialized.
+2026-10-21 18:46:31,920 - INFO - Starting product data check...
+2026-10-21 18:46:36,712 - INFO - Saved to product_data: boAt Nirvana Zenith Pro (2025) at 2799.0 INR, Rating: 3.9, Reviews: 1933
+2026-10-21 18:46:36,751 - INFO - Saved to product_details: boAt Nirvana Zenith Pro, 50dB Hybrid Adaptive ANC, Spatial Audio, Hi-Res Audio LDAC, 6Mics AI-ENx, 80 Hrs Battery, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Platinum Gold)
+2026-10-21 18:46:36,755 - INFO - Saved 4 new reviews for ASIN B0DXPL5XHF.
+2026-10-21 18:46:41,154 - INFO - Saved to product_data: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish at 2499.0 INR, Rating: 3.2, Reviews: 4062
+2026-10-21 18:46:41,188 - INFO - Saved to product_details: Noise Air Clips Wireless Open Ear Earbuds with Chrome Finish, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, Quad Mic with ENC,12mm Driver,BTv5.4 (Pearl Black)
+2026-10-21 18:46:41,193 - INFO - Saved 5 new reviews for ASIN B0DGV56J6G.
+2026-10-21 18:46:45,741 - INFO - Saved to product_data: boAt Nirvana Ion ANC Pro at None INR, Rating: 4.0, Reviews: 983
+2026-10-21 18:46:45,774 - INFO - Saved to product_details: boAt Nirvana Ion ANC Pro, Hi-Res Audio LDAC, Active Noise Cancellation(~32dB), 120Hrs Battery, App Support, Fast Charge, v5.3 Bluetooth Earbuds,TWS Ear Buds Wireless Earphones with mic (Blazing Comet)
+2026-10-21 18:46:45,779 - INFO - Saved 5 new reviews for ASIN 	B0DN171184.
+2026-10-21 18:46:46,253 - ERROR - API Error for ASIN B0DHH96NBB: 404 - {"status":"ERROR","request_id":"1ef122ff-9bab-486c-97c1-e9b20342ce72","error":{"message":"Product not found","code":404}}
+2026-10-21 18:46:46,254 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 (ASIN: B0DHH96NBB)
+2026-10-21 18:46:51,046 - INFO - Saved to product_data: boAt Nirvana Ivy at None INR, Rating: 3.6, Reviews: 1981
+2026-10-21 18:46:51,079 - INFO - Saved to product_details: boAt Nirvana Ivy, 50dB Hybrid Active Noise Cancellation, 360º Spatial Audio,Fast Charge,App Support, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Gunmetal Black)
+2026-10-21 18:46:51,083 - INFO - Saved 4 new reviews for ASIN 	B0DBHD2F5R.
+2026-10-21 18:46:55,694 - INFO - Saved to product_data: Noise Newly Launched Air Clips 2 at None INR, Rating: 2.7, Reviews: 667
+2026-10-21 18:46:55,727 - INFO - Saved to product_details: Noise Newly Launched Air Clips 2 Wireless Open Ear Earbuds with Clip Design, AirWave™ Technology,Up-to 40H Playtime, Dual Device Pairing, ENC,12mm Driver,BTv5.3 (Frost Black)
+2026-10-21 18:46:55,732 - INFO - Saved 1 new reviews for ASIN 	B0F673HNLP.
+2026-10-21 18:47:00,145 - INFO - Saved to product_data: boAt Nirvana X TWS (2025) at 1999.0 INR, Rating: 3.9, Reviews: 838
+2026-10-21 18:47:00,179 - INFO - Saved to product_details: boAt Nirvana X TWS,Knowles Dual Drivers, Hi-Res Audio LDAC, App Support,4Mic ENx,Dual Pair,Spatial Audio,Fast Charge, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Cosmic Onyx)
+2026-10-21 18:47:00,183 - INFO - Saved 2 new reviews for ASIN B0DQKY3R84.
+2026-10-21 18:47:00,656 - ERROR - API Error for ASIN B0DGV55W2K: 404 - {"status":"ERROR","request_id":"ea11216d-0a7e-42d8-9ed0-0509a4d2a5a5","error":{"message":"Product not found","code":404}}
+2026-10-21 18:47:00,657 - WARNING - No data found for Noise Newly Launched Air Buds 6 (ASIN: B0DGV55W2K)
+2026-10-21 18:47:01,301 - ERROR - API Error for ASIN B0DHHDW7FV: 404 - {"status":"ERROR","request_id":"ffac41ef-8da5-41bd-8f69-89bf0a8beae6","error":{"message":"Product not found","code":404}}
+2026-10-21 18:47:01,302 - WARNING - No data found for Noise Newly Launched Air Buds Pro 6 in Ear Truly Wireless Earbuds with Hybrid ANC (up to 49dB) (ASIN: B0DHHDW7FV)
